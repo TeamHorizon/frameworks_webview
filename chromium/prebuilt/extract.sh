@@ -1,10 +1,7 @@
 #!/bin/bash
 
 # Update prebuilt WebView library with com.google.android.webview apk
-<<<<<<< HEAD
-=======
 # This script will automatically detect different architectures
->>>>>>> cm12.1/cm-12.1
 # Usage : ./extract.sh /path/to/com.google.android.webview.apk
 #
 # http://www.apkmirror.com/apk/google-inc/android-system-webview/
